@@ -10,6 +10,10 @@
 - Design UI: Figma
 - Design Database: Use Case Diagram
 
+# CI/CD: 
+- Github Action
+- Docker
+
 # Guild run the project:
 - 1. Clone the project: 
 
